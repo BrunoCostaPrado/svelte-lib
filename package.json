@@ -1,5 +1,9 @@
 {
 	"name": "svelte-form-lib",
+	"np": {
+		"pnpm": true,
+		"contents": "dist"
+	},
 	"version": "0.0.1",
 	"repository": {
 		"type": "git",
