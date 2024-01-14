@@ -1,6 +1,10 @@
 {
-	"name": "svelte-lib",
+	"name": "svelte-form-lib",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BrunoCostaPrado/svelte-lib.git"
+	},
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && pnpm run package",
